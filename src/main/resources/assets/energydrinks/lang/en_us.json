@@ -1,0 +1,15 @@
+{
+  "item.energydrinks.green_energy": "Green Energy",
+  "item.energydrinks.blue_energy": "Blue Energy",
+  "item.energydrinks.red_energy": "Red Energy",
+  "item.energydrinks.white_energy": "White Energy",
+  "item.energydrinks.purple_energy": "Purple Energy",
+  "item.energydrinks.orange_energy": "Orange Energy",
+  "item.energydrinks.pink_energy": "Pink Energy",
+  "item.energydrinks.black_energy": "Black Energy",
+  "item.energydrinks.empty_can": "Empty Can",
+  "itemGroup.energydrinks": "Energy Drinks",
+  "effect.energydrinks.caffeinated": "Caffeinated",
+  "tooltip.energydrinks.boost": "Speed I + Haste I (%s)",
+  "tooltip.energydrinks.crash": "Then crash: Slowness I + Hunger I (%s)"
+}
